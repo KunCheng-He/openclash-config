@@ -3,6 +3,7 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,wallhaven.cc
 DOMAIN-SUFFIX,icc2022.com
+DOMAIN-SUFFIX,ds1.m-team.co
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
